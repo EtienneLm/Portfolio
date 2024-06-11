@@ -45,20 +45,20 @@
 
 ## 4. Cours d'UX Design
 **Description du Projet :** Appliquer les connaissances acquises lors des cours : Maquette, persona, questionnaire 
-- **Lien vers la maquette :** [Figma](lien_vers_la_maquette)
+- **Lien vers la maquette :** [Figma](https://www.figma.com/design/CslSiGrZHYO7bjdchYZAUi/Ynov-UX-Projet-FreePrints?node-id=1-378&t=pl1rD0o81aj0NBFE-0)
 
 ---
 
 ## 5. Projet Ydays B2 "UNKNOW"
 **Description du Projet :** Site web de vente de vêtements streetwear, créé avec le CMS Hostinger. Projet fil rouge de ma deuxième année, réalisé en collaboration avec des élèves de différentes filières de l’école.
-- **Lien vers le site web :** [UNKNOW Streetwear](lien_vers_le_site)
+- **Lien vers le site web :** [UNKNOW Streetwear](https://unknow-streetwear.com)
 - **Démonstration du Produit :** T-shirt
 
 ---
 
 ## 6. Projet Ydiscover B2 “WebMusYc”
 **Description du Projet :** Projet non achevé. Création d'un site web permettant la génération de playlists et des blindtests, utilisant l'API Spotify.
-- **Lien vers le site web :** [WebMusYc](lien_vers_le_site)
+- **Lien vers le site web (local) :** [WebMusYc](http://127.0.0.1:5000/home) 
 
 ---
 
