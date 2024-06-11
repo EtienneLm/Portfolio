@@ -61,7 +61,8 @@
 
 ## 6. Projet Ydiscover B2 “WebMusYc”
 **Description du Projet :** *Projet non achevé*. Création d'un site web permettant la génération de playlists et des blindtests, utilisant l'API Spotify.
-- **Lien vers le site web (local) :** [WebMusYc](http://127.0.0.1:5000/home)  
+- **Lien vers le site web (local) :** [WebMusYc](http://127.0.0.1:5000/home)
+  
   ![Image-Thsirt](screen-webmusyc.png)
 
 ---
