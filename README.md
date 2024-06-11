@@ -1,5 +1,4 @@
-# Présentation pour Moulin Roty
-
+# Portfolio
 ## Etienne Lemée, B2 à Ynov Nantes
 
 ### Table des Matières :
@@ -38,9 +37,9 @@
 ## 3. Projet EduBooking
 **Description du Projet :** Création d'une application avec du machine to machine, une utilisation des informations du monde physique, une BDD, un algorithme avancé, de l’interaction avec l’utilisateur, un CRUD. Je poursuis activement le projet dans le but d'approfondir mes compétences en développement. J'applique l'ensemble des connaissances acquises tout au long des divers modules de cours, notamment en ce qui concerne l'accessibilité, l'expérience utilisateur (UX) et le langage SQL.
 
-- **Lien vers le site web :** [EduBooking](lien_vers_le_site)
-- **Documentation Readme :** [GitHub](lien_vers_la_documentation)
-- **Gestion de Projet :** Tableau Kanban
+- **Lien vers le site web :** [EduBooking](https://edubooking.000webhostapp.com)
+- **Documentation Readme :** [GitHub](https://github.com/EtienneLm/Projet-EduBooking-B2)
+- **Gestion de Projet :** [Tableau Kaban](https://github.com/users/EtienneLm/projects/2)
 
 ---
 
