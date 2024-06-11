@@ -32,6 +32,8 @@
 
 ## 2. CV
 
+![photo-cv-alternance](https://github.com/EtienneLm/Portfolio/assets/112947657/47a6805b-48c4-4668-ab13-2db9bc15de48)
+
 ---
 
 ## 3. Projet EduBooking
@@ -65,5 +67,5 @@
 ## 7. Contacts
 - **Email :** lemeeetienne4@gmail.com
 - **Téléphone :** 06 58 88 73 84
-- **LinkedIn :** [Etienne Lemée](www.linkedin.com/in/etienne-lemee)
+- **LinkedIn :** [Etienne Lemée](https://www.linkedin.com/in/etienne-lemee/)
 
