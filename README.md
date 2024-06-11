@@ -33,7 +33,7 @@
 
 ## 2. CV
 
-![photo-cv-alternance](https://github.com/EtienneLm/Portfolio/assets/112947657/47a6805b-48c4-4668-ab13-2db9bc15de48)
+![photo-cv-alternance](photo-cv-alternance.png)
 
 ---
 
@@ -55,13 +55,14 @@
 ## 5. Projet Ydays B2 "UNKNOW"
 **Description du Projet :** Site web de vente de vêtements streetwear, créé avec le CMS Hostinger. Projet fil rouge de ma deuxième année, réalisé en collaboration avec des élèves de différentes filières de l’école.
 - **Lien vers le site web :** [UNKNOW Streetwear](https://unknow-streetwear.com)
-- **Démonstration du Produit :** ![MicrosoftTeams-image](https://github.com/EtienneLm/Portfolio/assets/112947657/33bde606-fe81-45ce-95b1-04e577dc8e68)
+- **Démonstration du Produit :** ![Image-Thsirt](photo-thsirt.png)
 
 ---
 
 ## 6. Projet Ydiscover B2 “WebMusYc”
 **Description du Projet :** *Projet non achevé*. Création d'un site web permettant la génération de playlists et des blindtests, utilisant l'API Spotify.
-- **Lien vers le site web (local) :** [WebMusYc](http://127.0.0.1:5000/home) 
+- **Lien vers le site web (local) :** [WebMusYc](http://127.0.0.1:5000/home)
+- ![Image-Thsirt](screen-webmusyc.png)
 
 ---
 
