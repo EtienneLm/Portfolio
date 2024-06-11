@@ -13,7 +13,6 @@
 ---
 
 ## 1. CV
-*(Ajouter ton CV en Markdown ici)*
 
 ---
 
