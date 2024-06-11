@@ -66,7 +66,7 @@
 ---
 
 ## 7. Projet GameProgramming "GraveBound"
-**Description du Projet :** "GraveBound" est un projet de jeu vidéo développé dans le cadre du cours de Game Programming. Ce jeu met en œuvre divers concepts avancés de programmation de jeux, tels que la gestion des collisions, l'intelligence artificielle des ennemis, et des mécaniques de jeu immersives. 
+**Description du Projet :** "GraveBound" est un projet de jeu vidéo développé en C# sur Unity dans le cadre du cours de Game Programming. C'est un jeux d'aventure et de survie.
 - **Lien vers la vidéo de gameplay :** [Visionner la vidéo de gameplay](https://youtu.be/Pn65kcbow58?si=G3FcakucEF9RHi8t)
 
 ---
