@@ -8,7 +8,8 @@
 4. [Cours d'UX Design](#4-cours-dux-design)
 5. [Projet Ydays B2 "UNKNOW"](#5-projet-ydays-b2-unknow)
 6. [Projet Ydiscover B2 “WebMusYc”](#6-projet-ydiscover-b2-webmusyc)
-7. [Contacts](#7-contacts)
+7. [Projet GameProgramming "GraveBound"](#7-projet-gameprogramming-gravebound)
+8. [Contacts](#8-contacts)
 
 ---
 
@@ -56,7 +57,6 @@
 - **Lien vers le site web :** [UNKNOW Streetwear](https://unknow-streetwear.com)
 - **Démonstration du Produit :** ![MicrosoftTeams-image](https://github.com/EtienneLm/Portfolio/assets/112947657/33bde606-fe81-45ce-95b1-04e577dc8e68)
 
-
 ---
 
 ## 6. Projet Ydiscover B2 “WebMusYc”
@@ -65,10 +65,13 @@
 
 ---
 
-[Gameplay-video](vidéo-gameplay.mp4)
+## 7. Projet GameProgramming "GraveBound"
+**Description du Projet :** "GraveBound" est un projet de jeu vidéo développé dans le cadre du cours de Game Programming. Ce jeu met en œuvre divers concepts avancés de programmation de jeux, tels que la gestion des collisions, l'intelligence artificielle des ennemis, et des mécaniques de jeu immersives. 
+- **Lien vers la vidéo de gameplay :** [Visionner la vidéo de gameplay](./vidéo gameplay.mp4)
 
-## 7. Contacts
+---
+
+## 8. Contacts
 - **Email :** lemeeetienne4@gmail.com
 - **Téléphone :** 06 58 88 73 84
 - **LinkedIn :** [Etienne Lemée](https://www.linkedin.com/in/etienne-lemee/)
-
