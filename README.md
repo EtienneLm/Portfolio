@@ -54,7 +54,8 @@
 ## 5. Projet Ydays B2 "UNKNOW"
 **Description du Projet :** Site web de vente de vêtements streetwear, créé avec le CMS Hostinger. Projet fil rouge de ma deuxième année, réalisé en collaboration avec des élèves de différentes filières de l’école.
 - **Lien vers le site web :** [UNKNOW Streetwear](https://unknow-streetwear.com)
-- **Démonstration du Produit :** T-shirt
+- **Démonstration du Produit :** ![MicrosoftTeams-image](https://github.com/EtienneLm/Portfolio/assets/112947657/33bde606-fe81-45ce-95b1-04e577dc8e68)
+
 
 ---
 
