@@ -9,7 +9,8 @@
 5. [Projet Ydays B2 "UNKNOW"](#5-projet-ydays-b2-unknow)
 6. [Projet Ydiscover B2 “WebMusYc”](#6-projet-ydiscover-b2-webmusyc)
 7. [Projet GameProgramming "GraveBound"](#7-projet-gameprogramming-gravebound)
-8. [Contacts](#8-contacts)
+8. [Projet IoT "Poubellator2000"](#8-projet-iot-poubellator2000)
+9. [Contacts](#9-contacts)
 
 ---
 
@@ -73,7 +74,16 @@
 
 ---
 
-## 8. Contacts
+
+## 8. Projet IoT "Poubellator2000"
+
+**Description du Projet :** Le "Poubellator2000" est une boîte intelligente qui s'ouvre et se ferme grâce à un capteur de proximité. Il indique également son niveau de remplissage à l'aide de capteurs, utilisant des LED de différentes couleurs pour une indication visuelle.
+
+- **Lien vers la vidéo de démonstration :** [Vidéo Youtube](lien_vers_ta_video)
+
+---
+
+## 9. Contacts
 - **Email :** lemeeetienne4@gmail.com
 - **Téléphone :** 06 58 88 73 84
 - **LinkedIn :** [Etienne Lemée](https://www.linkedin.com/in/etienne-lemee/)
