@@ -79,7 +79,7 @@
 
 **Description du Projet :** Le "Poubellator2000" est une boîte intelligente qui s'ouvre et se ferme grâce à un capteur de proximité. Il indique également son niveau de remplissage à l'aide de capteurs, utilisant des LED de différentes couleurs pour une indication visuelle.
 
-- **Lien vers la vidéo de démonstration :** [Vidéo YouTube proximitée](https://youtube.com/shorts/_9lEEj-H3SE?feature=share)
+- **Lien vers la vidéo de démonstration :** [Vidéo YouTube](https://youtube.com/shorts/_9lEEj-H3SE?feature=share)
 
 ---
 
