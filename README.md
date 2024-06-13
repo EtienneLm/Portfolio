@@ -10,7 +10,8 @@
 6. [Projet Ydiscover B2 “WebMusYc”](#6-projet-ydiscover-b2-webmusyc)
 7. [Projet GameProgramming "GraveBound"](#7-projet-gameprogramming-gravebound)
 8. [Projet IoT "Poubellator2000"](#8-projet-iot-poubellator2000)
-9. [Contacts](#9-contacts)
+9. [Projet Game "AstroBird"](#9-projet-game-astrobird)
+10. [Contacts](#10-contacts)
 
 ---
 
@@ -74,7 +75,6 @@
 
 ---
 
-
 ## 8. Projet IoT "Poubellator2000"
 
 **Description du Projet :** Le "Poubellator2000" est une boîte intelligente qui s'ouvre et se ferme grâce à un capteur de proximité. Il indique également son niveau de remplissage à l'aide de capteurs, utilisant des LED de différentes couleurs pour une indication visuelle.
@@ -83,7 +83,15 @@
 
 ---
 
-## 9. Contacts
+## 9. Projet Game "AstroBird"
+
+**Description du Projet :** "AstroBird" est un jeu inspiré de Flappy Bird, mais avec un thème spatial. Développé dans le cadre d'un projet de cours lors de ma première année d'études.
+
+- **Lien vers la vidéo de présentation :** [Vidéo YouTube](https://youtu.be/gxBz-4nGVCc)
+
+---
+
+## 10. Contacts
 - **Email :** lemeeetienne4@gmail.com
 - **Téléphone :** 06 58 88 73 84
 - **LinkedIn :** [Etienne Lemée](https://www.linkedin.com/in/etienne-lemee/)
