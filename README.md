@@ -17,18 +17,18 @@
 ## 1. Languages et Frameworks
 
 ### Langages de Programmation :
+- ![PHP](https://img.shields.io/badge/PHP-%5E7.4-blue)
 - ![C++](https://img.shields.io/badge/C++-14-red)
 - ![C#](https://img.shields.io/badge/C%23-.NET_6-blue)
 - ![Go](https://img.shields.io/badge/Go-1.17-blue)
 - ![Java](https://img.shields.io/badge/Java-11-red)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-- ![PHP](https://img.shields.io/badge/PHP-%5E7.4-blue)
 - ![Python](https://img.shields.io/badge/Python-3.9.7-blue)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-4.4.3-blue)
 
 ### Frameworks :
-- ![React Native](https://img.shields.io/badge/React_Native-0.66.3-green)
 - ![Laravel](https://img.shields.io/badge/Laravel-v8-red)
+- ![React Native](https://img.shields.io/badge/React_Native-0.66.3-green)
 
 ---
 
