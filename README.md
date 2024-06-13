@@ -85,7 +85,7 @@
 
 ## 9. Projet Game "AstroBird"
 
-**Description du Projet :** "AstroBird" est un jeu inspiré de Flappy Bird, mais avec un thème spatial. Développé dans le cadre d'un projet de cours lors de ma première année d'études.
+**Description du Projet :** "AstroBird" est un jeu inspiré de Flappy Bird, mais avec un thème spatial. Développé dans le cadre d'un projet de cours lors de ma première année d'études. Les graphismes ont été spécialement créés pour le projet afin de donner vie à son univers spatial.
 
 - **Lien vers la vidéo de présentation :** [Vidéo YouTube](https://youtu.be/gxBz-4nGVCc)
 
