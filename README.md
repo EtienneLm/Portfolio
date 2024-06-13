@@ -70,7 +70,7 @@
 
 ## 7. Projet GameProgramming "GraveBound"
 **Description du Projet :** "GraveBound" est un projet de jeu vidéo développé en C# sur Unity dans le cadre du cours de Game Programming. C'est un jeux d'aventure et de survie.
-- **Lien vers la vidéo de gameplay :** [Vidéo Youtube](https://youtu.be/Pn65kcbow58?si=G3FcakucEF9RHi8t)
+- **Lien vers la vidéo de gameplay :** [Vidéo YouTube](https://youtu.be/Pn65kcbow58?si=G3FcakucEF9RHi8t)
 
 ---
 
@@ -79,7 +79,7 @@
 
 **Description du Projet :** Le "Poubellator2000" est une boîte intelligente qui s'ouvre et se ferme grâce à un capteur de proximité. Il indique également son niveau de remplissage à l'aide de capteurs, utilisant des LED de différentes couleurs pour une indication visuelle.
 
-- **Lien vers la vidéo de démonstration :** [Vidéo Youtube provisoire](https://youtube.com/shorts/_9lEEj-H3SE?feature=share)
+- **Lien vers la vidéo de démonstration :** [Vidéo YouTube proximitée](https://youtube.com/shorts/_9lEEj-H3SE?feature=share)
 
 ---
 
