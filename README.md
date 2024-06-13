@@ -40,6 +40,9 @@
 ---
 
 ## 3. Projet EduBooking
+**Languages et Technologies Utilisés :**
+![PHP](https://img.shields.io/badge/PHP-%5E7.4-blue) ![SQLite](https://img.shields.io/badge/SQLite-3-green) ![Laravel](https://img.shields.io/badge/Laravel-v8-red) ![Blade (HTML)](https://img.shields.io/badge/Blade-HTML-blue) ![CSS](https://img.shields.io/badge/CSS-3-orange)
+
 **Description du Projet :** Création d'une application avec du machine to machine, une utilisation des informations du monde physique, une BDD, un algorithme avancé, de l’interaction avec l’utilisateur, un CRUD. Je poursuis activement le projet dans le but d'approfondir mes compétences en développement. J'applique l'ensemble des connaissances acquises tout au long des divers modules de cours, notamment en ce qui concerne l'accessibilité, l'expérience utilisateur (UX) et le langage SQL.
 
 - **Lien vers le site web :** [EduBooking](https://edubooking.000webhostapp.com)
@@ -49,12 +52,18 @@
 ---
 
 ## 4. Cours d'UX Design
+**Languages et Technologies Utilisés :**
+![Figma](https://img.shields.io/badge/Figma-Design-blue)
+
 **Description du Projet :** Appliquer les connaissances acquises lors des cours : Maquette, persona, questionnaire 
 - **Lien vers la maquette :** [Figma](https://www.figma.com/design/CslSiGrZHYO7bjdchYZAUi/Ynov-UX-Projet-FreePrints?node-id=1-378&t=pl1rD0o81aj0NBFE-0)
 
 ---
 
 ## 5. Projet Ydays B2 "UNKNOW"
+**Languages et Technologies Utilisés :**
+![Hostinger](https://img.shields.io/badge/Hostinger-CMS-blue)
+
 **Description du Projet :** Site web de vente de vêtements streetwear, créé avec le CMS Hostinger. Projet fil rouge de ma deuxième année, réalisé en collaboration avec des élèves de différentes filières de l’école.
 - **Lien vers le site web :** [UNKNOW Streetwear](https://unknow-streetwear.com)
 - **Démonstration du Produit :** ![Image-Thsirt](photo-thsirt.png)
@@ -62,6 +71,9 @@
 ---
 
 ## 6. Projet Ydiscover B2 “WebMusYc”
+**Languages et Technologies Utilisés :**
+![Python](https://img.shields.io/badge/Python-3.9.7-blue) ![SQLite](https://img.shields.io/badge/SQLite-3-green) ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-orange)
+
 **Description du Projet :** *Projet non achevé*. Création d'un site web permettant la génération de playlists et des blindtests, utilisant l'API Spotify.
 - **Lien vers le site web (local) :** [WebMusYc](http://127.0.0.1:5000/home)
   
@@ -70,12 +82,17 @@
 ---
 
 ## 7. Projet GameProgramming "GraveBound"
+**Languages et Technologies Utilisés :**
+![C#](https://img.shields.io/badge/C%23-.NET_6-blue) ![Unity](https://img.shields.io/badge/Unity-2020-orange)
+
 **Description du Projet :** "GraveBound" est un projet de jeu vidéo développé en C# sur Unity dans le cadre du cours de Game Programming. C'est un jeux d'aventure et de survie.
 - **Lien vers la vidéo de gameplay :** [Vidéo YouTube](https://youtu.be/Pn65kcbow58?si=G3FcakucEF9RHi8t)
 
 ---
 
 ## 8. Projet IoT "Poubellator2000"
+**Languages et Technologies Utilisés :**
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Embedded-blue)
 
 **Description du Projet :** Le "Poubellator2000" est une boîte intelligente qui s'ouvre et se ferme grâce à un capteur de proximité. Il indique également son niveau de remplissage à l'aide de capteurs, utilisant des LED de différentes couleurs pour une indication visuelle.
 
@@ -84,6 +101,8 @@
 ---
 
 ## 9. Projet Game "AstroBird"
+**Languages et Technologies Utilisés :**
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-orange)
 
 **Description du Projet :** "AstroBird" est un jeu inspiré de Flappy Bird, mais avec un thème spatial. Développé dans le cadre d'un projet de cours lors de ma première année d'études. Les graphismes ont été spécialement créés pour le projet afin de donner vie à son univers spatial.
 
