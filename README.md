@@ -74,7 +74,7 @@
 **Languages et Technologies Utilisés :**
 ![Python](https://img.shields.io/badge/Python-3.9.7-blue) ![SQLite](https://img.shields.io/badge/SQLite-3-green) ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-orange)
 
-**Description du Projet :** *Projet non achevé*. Création d'un site web permettant la génération de playlists et des blindtests, utilisant l'API Spotify.
+**Description du Projet :** *Projet non achevé*. Création d'un site web permettant la génération de playlists et de blindtests, en utilisant l'API Spotify.
 - **Lien vers le site web (local) :** [WebMusYc](http://127.0.0.1:5000/home)
   
   ![Image-Thsirt](screen-webmusyc.png)
