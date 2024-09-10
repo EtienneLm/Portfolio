@@ -59,7 +59,7 @@
 - **Lien vers la maquette :** [Figma](https://www.figma.com/design/CslSiGrZHYO7bjdchYZAUi/Ynov-UX-Projet-FreePrints?node-id=1-378&t=pl1rD0o81aj0NBFE-0)
 - **Démonstration du Produit :**
 
-![Image-maquette](screen_maquette-2.png) ![Image-maquette](screen_maquette-1.png)
+![Image-maquette](screen_maquette-3.png) ![Image-maquette](screen_maquette-1.png)
 
 
 ---
