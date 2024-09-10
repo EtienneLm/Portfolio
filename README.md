@@ -56,6 +56,7 @@
 ![Figma](https://img.shields.io/badge/Figma-Design-blue)
 
 **Description du Projet :** Appliquer les connaissances acquises lors des cours : Maquette, persona, questionnaire 
+
   ![Image-maquette](screen-maquette.png)
 - **Lien vers la maquette :** [Figma](https://www.figma.com/design/CslSiGrZHYO7bjdchYZAUi/Ynov-UX-Projet-FreePrints?node-id=1-378&t=pl1rD0o81aj0NBFE-0)
 
