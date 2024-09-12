@@ -96,6 +96,7 @@
 ## 8. Projet IoT "Poubellator2000"
 **Langages et Technologies Utilisés :**
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-Embedded-blue)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)
 
 **Description du Projet :** Le "Poubellator2000" est une boîte intelligente qui s'ouvre et se ferme grâce à un capteur de proximité. Il indique également son niveau de remplissage à l'aide de capteurs, utilisant des LED de différentes couleurs pour une indication visuelle.
 
