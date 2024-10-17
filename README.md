@@ -35,7 +35,7 @@
 
 ## 2. CV
 
-![photo-cv-alternance](photo-cv-alternance.png)
+![photo-cv-alternance](assets/photo-cv-alternance.png)
 
 ---
 
@@ -59,7 +59,7 @@
 - **Lien vers la maquette :** [Figma](https://www.figma.com/design/CslSiGrZHYO7bjdchYZAUi/Ynov-UX-Projet-FreePrints?node-id=1-378&t=pl1rD0o81aj0NBFE-0)
 - **Démonstration du Produit :**
 
-![Image-maquette](screen_maquette-3.png) ![Image-maquette](screen_maquette-1.png)
+![Image-maquette](assets/screen_maquette-3.png) ![Image-maquette](assets/screen_maquette-1.png)
 
 
 ---
@@ -70,7 +70,7 @@
 
 **Description du Projet :** Site web de vente de vêtements streetwear, créé avec le CMS Hostinger. Projet fil rouge de ma deuxième année, réalisé en collaboration avec des élèves de différentes filières de l’école.
 - **Lien vers le site web :** [UNKNOW Streetwear](https://unknow-streetwear.com)
-- **Démonstration du Produit :** ![Image-Thsirt](photo-thsirt.png)
+- **Démonstration du Produit :** ![Image-Thsirt](assets/photo-thsirt.png)
 
 ---
 
@@ -80,7 +80,7 @@
 
 **Description du Projet :** *Projet non achevé*. Création d'un site web permettant la génération de playlists et de blindtests, en utilisant l'API Spotify.  
 
-![Image-webmus](screen-webmusyc.png)
+![Image-webmus](assets/screen-webmusyc.png)
 
 ---
 
