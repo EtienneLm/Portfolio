@@ -32,7 +32,7 @@
 - ![Laravel](https://img.shields.io/badge/Laravel-v8-red)
 - ![React Native](https://img.shields.io/badge/React_Native-0.66.3-green)
 
-### Tools / Apps : 
+### Outils / Applications : 
 - ![Unity](https://img.shields.io/badge/Unity-2020-orange)
 - ![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)
 
