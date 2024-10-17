@@ -26,10 +26,15 @@
 - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 - ![Python](https://img.shields.io/badge/Python-3.9.7-blue)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-4.4.3-blue)
+- ![SQLite](https://img.shields.io/badge/SQLite-3-green)
 
 ### Frameworks :
 - ![Laravel](https://img.shields.io/badge/Laravel-v8-red)
 - ![React Native](https://img.shields.io/badge/React_Native-0.66.3-green)
+
+### Tools / Apps : 
+- ![Unity](https://img.shields.io/badge/Unity-2020-orange)
+- ![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)
 
 ---
 
