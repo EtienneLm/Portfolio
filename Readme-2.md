@@ -85,7 +85,7 @@
 ---
 
 ## 6. Cours d'UX Design  
-**Langages et Technologies Utilisés :**
+**Langages et Technologies Utilisés :**  
 ![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
 
@@ -99,7 +99,7 @@
 ---
 
 ## 7. Projet Ydays B2 "UNKNOW"  
-**Langages et Technologies Utilisés :**
+**Langages et Technologies Utilisés :**  
 ![Hostinger](https://img.shields.io/badge/Hostinger-CMS-blue)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?logo=google-drive&logoColor=white)
