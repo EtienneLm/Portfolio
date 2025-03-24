@@ -1,11 +1,16 @@
 # Quizzy - B3 Suivi de Projet  
-![Logo](logo.png)  
+<img src="logo.png" alt="" width="300">
 
 ## Langages et Technologies Utilisés  
-| Technologies |  |
+| Langages et Technologies |  |
 |------------|-------|
 | ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
-| ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma) |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) |
+| ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) | ![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?logo=google-drive&logoColor=white) |
+| ![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma) |  |
+
+
 
 ---
 
@@ -17,35 +22,35 @@ Notre idée : créer une plateforme permettant aux utilisateurs de **se rassembl
 ---
 
 ## Organisation  
-Nous avons utilisé **Trello** pour la gestion de projet.  
-🔗 **Lien vers le Trello :** [Trello](#)  
-![Trello](trello.png)  
-<img src="trello.png" alt="API Screenshot" width="">
+Utilisation de **Trello** pour la gestion de projet.   
+<img src="trello.png" alt="API Screenshot" width="800">
 
 ---
 
 ## Diagrammes  
 
-### Modèle Physique de Données  
-![MPD](mpd.png)  
+### Modèle Physique de Données
+<img src="mpd.png" alt="" width="700">
 
 ### Diagramme d'Activité (User)  
-![Diagramme Activité](diag-activité.png)  
+<img src="diag-activité.png" alt="" width="700">
 
 ---
 
 ##  Charte Graphique  
-![Charte Graphique](charte-grahique.png)  
+Charte graphique complète de Quizzy
+<img src="charte-grahique.png" alt="" width="700">
 
 ---
 
 ## Maquettage & Prototypage  
-**Lien vers la maquette Figma :**  
-[Voir la maquette](https://www.figma.com/design/PzlJKUFo3R4SECfjWpKPgd/Quizzy-Proj-fil_rouge?node-id=107-1011&t=ewXKWvwXB5dk65k9-0)  
+**Lien vers la maquette Figma :**  [Voir la maquette](https://www.figma.com/design/PzlJKUFo3R4SECfjWpKPgd/Quizzy-Proj-fil_rouge?node-id=107-1011&t=ewXKWvwXB5dk65k9-0)  
 
-![Maquette](maquette-complete.png)  
-
-![Maquette](maquette.png)  
+**Vu d'ensemble** des maquettes de l'application  
+<img src="maquette-complete.png" alt="" width="700">  
+  
+**Page d'accueil** de l'application, vue sur Figma  
+<img src="maquette.png" alt="" height="600">
 
 ---
 
