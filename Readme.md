@@ -1,5 +1,5 @@
 # Portfolio
-## Etienne Lemée, B2 à Ynov Nantes
+## Etienne Lemée, B3 à Ynov Nantes
 
 ### Table des Matières :
 1. [Langages, Frameworks et Outils](#1-langages-frameworks-et-outils-des-projets)
