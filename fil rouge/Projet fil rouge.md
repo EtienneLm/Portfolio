@@ -38,7 +38,7 @@ Utilisation de **Trello** pour la gestion de projet.
 ---
 
 ##  Charte Graphique  
-Charte graphique complète de Quizzy
+**Charte graphique** complète de **Quizzy**  
 <img src="charte-grahique.png" alt="" width="700">
 
 ---
