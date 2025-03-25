@@ -25,22 +25,16 @@
 | ![Java](https://img.shields.io/badge/Java-11-007396?logo=java&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black) |
 | ![Python](https://img.shields.io/badge/Python-3.9.7-3776AB?logo=python&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-4.4.3-3178C6?logo=typescript&logoColor=white) |
 | ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white) |
-| ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white) | |
-
----
+| ![CSS](https://img.shields.io/badge/CSS-3-1572B6?logo=css3&logoColor=white) | |  
 
 ### Frameworks  
 |  |  |
 |-----------|-------|
 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-v8-FF2D20?logo=laravel&logoColor=white) |
-| ![React Native](https://img.shields.io/badge/React_Native-0.66.3-61DAFB?logo=react&logoColor=black) | |
-
----
+| ![React Native](https://img.shields.io/badge/React_Native-0.66.3-61DAFB?logo=react&logoColor=black) | |  
 
 ### Bases de Données  
- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-3-003B57?logo=sqlite&logoColor=white) 
-
----
+ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-3-003B57?logo=sqlite&logoColor=white)  
 
 ### Outils / Applications  
 |  |  |
