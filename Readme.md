@@ -105,7 +105,7 @@
 ![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?logo=google-drive&logoColor=white)
 
 **Description du Projet :** Site web de vente de vêtements streetwear, créé avec le CMS Hostinger. Projet fil rouge de ma deuxième année, réalisé en collaboration avec des élèves de différentes filières de l’école.
-- **Lien vers le site web :** [UNKNOW Streetwear](https://unknow-streetwear.com)
+- **Lien vers le site web :** [UNKNOW Streetwear](https://unknow-streetwear.com) (le projet n’est plus financé)
 - **Démonstration du Produit :** ![Image-Thsirt](assets/photo-thsirt.png)
 
 ---
