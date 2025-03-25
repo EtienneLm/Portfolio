@@ -48,7 +48,8 @@ Utilisation de **Trello** pour suivre l'avancement des tâches et organiser le p
 ---
 
 ## Cahier des charges  
-
+**METTRE A JOUR AVEC LA DERNI7RE VERSION**
+Cliquer pour le visualiser complètement :  
 [![PDF Preview](assets/pdf-preview.png)](assets/sportin_cahier_des_charges.pdf)
 
 ---
