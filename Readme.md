@@ -65,7 +65,7 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) ![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?logo=google-drive&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma)  
 **Pour en savoir plus sur le projet :**
-[quizzy.md](<fil rouge/Projet fil rouge.md>)
+[quizzy.md](<projet-fil-rouge/Projet fil rouge.md>)
 
 ## 4. Sportin - Développement Mobile  
 **Pour en savoir plus sur le projet :**
