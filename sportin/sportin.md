@@ -17,6 +17,13 @@ blablabla
 
 ---
 
+## Cahier des charges  
+**METTRE A JOUR AVEC LA DERNI7RE VERSION**  
+Cliquer pour le visualiser complètement :  
+[![PDF Preview](assets/pdf-preview.png)](assets/sportin_cahier_des_charges.pdf)
+
+---
+
 ## Organisation  
 
 ### Gestion de projet  
@@ -26,7 +33,7 @@ Utilisation de **Trello** pour suivre l'avancement des tâches et organiser le p
 ### Gestion du code  
 **Commits**  
 - Suivez ce format pour les messages de commit :  
-  ```bash
+  ```
   <emoji>|<commit message>
     ```
 - Utilisez Gitmoji pour des commits plus expressifs.
@@ -44,13 +51,6 @@ Utilisation de **Trello** pour suivre l'avancement des tâches et organiser le p
 ## Diagrame de la BDD
 ![dbdiagram](https://img.shields.io/badge/dbdiagram.io-0078D4?logo=databricks&logoColor=white)  
 <img src="assets/diagramme.png" alt="" width="700">
-
----
-
-## Cahier des charges  
-**METTRE A JOUR AVEC LA DERNI7RE VERSION**
-Cliquer pour le visualiser complètement :  
-[![PDF Preview](assets/pdf-preview.png)](assets/sportin_cahier_des_charges.pdf)
 
 ---
 
