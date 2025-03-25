@@ -62,3 +62,5 @@ Utilisation de **Trello** pour la gestion de projet.
 
 ## Frontend  
 ![App Mobile](app_mobile.png)  
+
+## Accessibilité
