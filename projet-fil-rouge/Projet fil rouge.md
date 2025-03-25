@@ -1,5 +1,5 @@
 # Quizzy - B3 Suivi de Projet  
-<img src="logo.png" alt="" width="300">
+<img src="assets/logo.png" alt="" width="300">
 
 ## Langages et Technologies Utilisés  
 | Langages et Technologies |  |
