@@ -49,11 +49,7 @@ Utilisation de **Trello** pour suivre l'avancement des tâches et organiser le p
 
 ## Cahier des charges  
 
-<object data="assets/sportin_cahier_des_charges.pdf" type="application/pdf" width="100%" height="600px">  
-- Votre navigateur ne supporte pas l'affichage des PDF.
-- [Télécharger le cahier des charges](assets/sportin_cahier_des_charges.pdf)  
-</object>
-
+[Open Report](assets/sportin_cahier_des_charges.pdf)
 
 ---
 
