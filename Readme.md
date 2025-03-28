@@ -41,7 +41,7 @@
 |-------|-------|
 | ![Unity](https://img.shields.io/badge/Unity-2020-000000?logo=unity&logoColor=white) | ![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=white) |
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | ![GitHub Kanban](https://img.shields.io/badge/GitHub_Kanban-181717?logo=github&logoColor=white) |
-| ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) | ![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?logo=google-drive&logoColor=white) |
+| ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) | ![Google Drive](https://img.shields.io/badge/Google-Drive-0F9D58?logo=google-drive&logoColor=white) |
 | ![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white) |
 
 ---
@@ -59,8 +59,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?logo=google-drive&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma)
+![Google Drive](https://img.shields.io/badge/Google-Drive-0F9D58?logo=google-drive&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-gray?logo=figma)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)  
 **Pour en savoir plus sur le projet :**
 [quizzy.md](<projet-fil-rouge/Projet fil rouge.md>)
@@ -73,8 +73,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?logo=google-drive&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma)
+![Google Drive](https://img.shields.io/badge/Google-Drive-0F9D58?logo=google-drive&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-gray?logo=figma)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)  
 
 **Pour en savoir plus sur le projet :**
@@ -87,7 +87,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-3-003B57?logo=sqlite&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-v8-FF2D20?logo=laravel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma)
+![Figma](https://img.shields.io/badge/Figma-gray?logo=figma)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![GitHub Kanban](https://img.shields.io/badge/GitHub_Kanban-181717?logo=github&logoColor=white)
 
@@ -101,7 +101,7 @@
 
 ## 6. Cours d'UX Design  
 **Langages et Technologies Utilisés :**  
-![Figma](https://img.shields.io/badge/Figma-Design-orange?logo=figma)
+![Figma](https://img.shields.io/badge/Figma-gray?logo=figma)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
 
 **Description du Projet :** Appliquer les connaissances acquises lors des cours : Maquette, persona, questionnaire 
@@ -117,7 +117,7 @@
 **Langages et Technologies Utilisés :**  
 ![Hostinger](https://img.shields.io/badge/Hostinger-CMS-blue)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?logo=google-drive&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google-Drive-0F9D58?logo=google-drive&logoColor=white)  
 
 **Description du Projet :** Site web de vente de vêtements streetwear, créé avec le CMS Hostinger. Projet fil rouge de ma deuxième année, réalisé en collaboration avec des élèves de différentes filières de l’école.
 - **Lien vers le site web :** [UNKNOW Streetwear](https://unknow-streetwear.com) (le projet n’est plus financé)
