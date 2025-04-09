@@ -47,7 +47,7 @@
 ---
 
 ## 2. CV
-![photo-cv-alternance](assets/photo-cv-alternance.png)
+![photo-cv-alternance](assets/CV-0325.png)
 
 ---
 
