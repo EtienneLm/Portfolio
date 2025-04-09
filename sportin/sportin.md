@@ -12,8 +12,20 @@
 
 ---
 
-## Description du Projet  
-blablabla
+## Description du Projet
+
+L'objectif principal de ce projet était de **développer une application mobile** en utilisant le **framework Flutter** de **Google**, tout en intégrant une **API préalablement construite** lors d'un cours précédent.
+
+Nous avons choisi de créer **Sportin**, une application dédiée aux sportifs, visant à simplifier leur quotidien en leur offrant une plateforme complète pour :
+- **Créer et personnaliser leurs programmes d'entraînement** ;
+- **Élaborer un plan nutritionnel adapté à leurs besoins** ;
+- **Suivre et analyser leurs progrès**.
+
+Le concept de **Sportin** repose sur l'idée de **centraliser plusieurs outils** indispensables pour les sportifs dans une seule application, en combinant la gestion des **programmes**, de la **nutrition**, du **minuteur** et de la **musique**.
+
+Un aspect clé de l'application était de **minimiser l'interaction avec le téléphone pendant les séances d'entraînement**. Ainsi, nous avons intégré **la reconnaissance vocale** pour permettre aux utilisateurs de contrôler la musique et les minuteurs sans avoir à toucher leur appareil.
+
+**Sportin** vise à offrir une expérience fluide et intuitive, afin que les sportifs **puissent se concentrer pleinement sur leurs entraînements** tout en ayant accès à des outils pratiques et efficaces.
 
 ---
 
@@ -33,17 +45,15 @@ Utilisation de **Trello** pour suivre l'avancement des tâches et organiser le p
 ---
 ### Gestion du code  
 **Commits**  
-- Suivez ce format pour les messages de commit :  
+Format pour les messages de commit :  
   ```
-  <emoji>|<commit message>
-    ```
-- Utilisez Gitmoji pour des commits plus expressifs.
+  <gitmoji>: commit message
+ ```
   
 **Branches**
 | Branche       | Description                     |
 |--------------|---------------------------------|
 | `main`       | Code prêt pour la production    |
-| `develop`    | Développement en cours          |
 | `feat/{nom}` | Nouvelles fonctionnalités       |
 | `fix/{nom}`  | Corrections de bugs            |
 
@@ -56,7 +66,7 @@ Utilisation de **Trello** pour suivre l'avancement des tâches et organiser le p
 ---
 
 ##  Charte Graphique  
-**Charte graphique** complète de **Sportin**  
+**Charte graphique** de **Sportin**  
 <img src="assets/charte-grahique.png" alt="" width="700">
   
 ---
@@ -79,6 +89,9 @@ Utilisation de **Trello** pour suivre l'avancement des tâches et organiser le p
 ---
 
 ## Frontend  
+Code : 
+[github-sportin](https://github.com/remybms/sportin-app)  
+
 ![App Mobile](assets/app_mobile.png)  
 
 ## Accessibilité
