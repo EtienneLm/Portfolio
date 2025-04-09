@@ -30,7 +30,6 @@ Un aspect clé de l'application était de **minimiser l'interaction avec le tél
 ---
 
 ## Cahier des charges  
-**METTRE A JOUR AVEC LA DERNI7RE VERSION**  
 Cliquer pour le visualiser complètement :  
 [![PDF Preview](assets/pdf-preview.png)](assets/sportin_cahier_des_charges.pdf)
 
@@ -94,4 +93,3 @@ Code :
 
 ![App Mobile](assets/app_mobile.png)  
 
-## Accessibilité
