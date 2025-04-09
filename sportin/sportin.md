@@ -28,7 +28,8 @@ Cliquer pour le visualiser complètement :
 
 ### Gestion de projet  
 Utilisation de **Trello** pour suivre l'avancement des tâches et organiser le projet.  
-  ![Trello Screenshot](assets/trello.png)  
+<img src="assets/trello.png" alt="" width="900">
+
 ---
 ### Gestion du code  
 **Commits**  
@@ -57,17 +58,17 @@ Utilisation de **Trello** pour suivre l'avancement des tâches et organiser le p
 ##  Charte Graphique  
 **Charte graphique** complète de **Sportin**  
 <img src="assets/charte-grahique.png" alt="" width="700">
-- insert img
+  
 ---
 
 ## Maquettage & Prototypage  
 **Lien vers la maquette Figma :**  [Voir la maquette](https://www.figma.com/design/2aQ2tbswpGKv6Nj5kBrc6c/Sportin-Wireframe?node-id=102-226&t=umMUqsmLoXJFb6vB-1)  
 
 **Vu d'ensemble** des maquettes de l'application  
-<img src="assets/maquette-complete.png" alt="" width="700">  
+<img src="assets/maquette-sportin.png" alt="" width="700">  
   
 **Page d'accueil** de l'application, vue sur Figma  
-<img src="assets/maquette.png" alt="" height="600">
+<img src="assets/acceuil-maquette-sportin.png" alt="" height="600">
 
 ---
 
