@@ -150,7 +150,6 @@
 
 ## 10. Contacts
 - **Email :** lemeeetienne4@gmail.com
-- **Téléphone :** 06 58 88 73 84
 - **LinkedIn :** [Etienne Lemée](https://www.linkedin.com/in/etienne-lemee/)
 
 <!---
